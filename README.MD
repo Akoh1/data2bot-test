@@ -16,3 +16,5 @@ Steps:
 ### Program outputs 2 datasets one in csv and one in json format
 - It was stated to output as json but the stucutre of the data in the 
   output example looked like csv, so I did both
+- The output files are stored in the same folder as code
+- The name of the file is output.json and output.csv

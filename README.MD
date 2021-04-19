@@ -1,4 +1,7 @@
-# Technical test for data2bots
+# Program Template for Reading and Writing to CSV files
+This program is a template for how to read from csv files and write to 
+csv or json files in an Object Oriented Way, using classes and objects
+to separate concerns for clean code and reusability.
 
 
 ## Getting started
@@ -14,7 +17,5 @@ Steps:
     ```
 
 ### Program outputs 2 datasets one in csv and one in json format
-- It was stated to output as json but the stucutre of the data in the 
-  output example looked like csv, so I did both
 - The output files are stored in the same folder as code
 - The name of the file is output.json and output.csv
